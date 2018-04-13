@@ -1,0 +1,14 @@
+
+Test details
+----------------------------------
+
+Preferred language : JAVA
+
+Browser : Chrome
+
+Frameworks used : Selenium
+                               TestNg
+
+
+
+
